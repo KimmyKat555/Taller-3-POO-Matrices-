@@ -6,7 +6,7 @@ public class MatrixMultiplier
     {
         int m, n, p;
 
-        Console.Write("Ingrese el valor de m: ");
+        Console.Write("Bienvenido/a!\nIngrese el valor de m: ");
         m = Convert.ToInt32(Console.ReadLine());
 
         Console.Write("Ingrese el valor de n: ");
